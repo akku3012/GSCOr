@@ -26,5 +26,5 @@ function draw() {
 
   car.isTouching(wall);
   drawSprites();
-}
+}ss
 
